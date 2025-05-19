@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-Exploring-blue?style=for-the-badge&logo=github" alt="status badge"/>
-  <img src="https://img.shields.io/badge/🗓️-2025+Live-in-Cairo-green?style=for-the-badge" alt="date badge"/>
+  <!--- <img src="https://img.shields.io/badge/🗓️-2025+Live-in-Cairo-green?style=for-the-badge" alt="date badge"/> --->
 </p>
 
 ---
@@ -16,6 +16,10 @@
 I’m **Amr Eid**, a **Cybersecurity Enthusiast** and **White Hat Hacker** on a mission to uncover digital mysteries 🕵️‍♂️. From reversing binaries to mastering malware dissection, I thrive at the intersection of code and covert operations.
 
 📍 Based in Cairo, Egypt 🇪🇬
+
+---
+
+## 😈 My Site : https://amreid.netlify.app/  🔮
 
 ---
 
